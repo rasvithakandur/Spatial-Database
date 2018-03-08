@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing> 
+<coordinates>
+-118.291783,34.018599,0.
+-118.291841,34.025911,0.
+-118.286285,34.028657,0.
+-118.28027,34.022503,0.
+-118.279884,34.0213,0.
+-118.282308,34.019595,0.
+-118.291783,34.018599,0.
+</coordinates>a
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+<Style> 
+  <PolyStyle> 
+    <color>#6414F0FF</color>
+    <outline>1</outline>
+  </PolyStyle> 
+  </Style>
+</Placemark>
+
+<Placemark><name>Home</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.286285,34.028657</coordinates></Point>
+</Placemark>
+<Placemark><name>Expo/verm</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.291783,34.018599</coordinates></Point>
+</Placemark>
+<Placemark><name>jeff/verm</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.291841,34.025911</coordinates></Point>
+</Placemark>
+<Placemark><name>jeff/fig</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.280270,34.022503</coordinates></Point>
+</Placemark>
+<Placemark><name>fig/expo</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.282308,34.019595</coordinates></Point>
+</Placemark>
+<Placemark><name>rtcc</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.286488,34.020333</coordinates></Point>
+</Placemark>
+<Placemark><name>olinhall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.289704,34.020910</coordinates></Point>
+</Placemark>
+<Placemark><name>doheny</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283737,34.020402</coordinates></Point>
+</Placemark>
+<Placemark><name>cromwell</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287858, 34.022299</coordinates></Point>
+</Placemark>
+<Placemark><name>Galen</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.279884,34.021300</coordinates></Point>
+</Placemark>
+<Placemark><name>cinematics</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.287123,34.023723</coordinates></Point>
+</Placemark>
+POLYGON((-118.291783 34.018599,-118.291841 34.025911,-118.286285 34.028657,-118.28027 34.022503,-118.279884 34.0213,-118.282308 34.019595,-118.291783 34.018599))
+</Document></kml>
